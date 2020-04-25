@@ -1,0 +1,107 @@
+<mjml>
+  <mj-body background-color="#E4E6EB">
+    <mj-section background-color="#ffffff" padding-bottom="0px" padding-top="0px" border-bottom="1px dashed #eee">
+      <mj-column vertical-align="top" width="100%">
+        <mj-image src="logo.png" alt="" align="center" border="none" width="150px" padding-left="0px" padding-right="0px" padding-bottom="30px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding-bottom="0px" padding-top="0px">
+      <mj-column vertical-align="top" width="100%">
+        <mj-text align="center" color="#071C4D" font-size="30px" font-weight="bold" font-family="Playfair Display, Times New Roman, serif" padding-left="25px" padding-right="25px" padding-bottom="30px" padding-top="30px">
+          Don't Forget Your E-Ticket!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding-bottom="0px" padding-top="0px">
+      <mj-column vertical-align="top" width="100%">
+        <mj-image src="login10.jpg" alt="" align="center" border="none" width="550px" padding-left="0px" padding-right="0px" padding-bottom="25px" padding-top="30px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding-bottom="0px" padding-top="0px" border-bottom="1px dashed #eee" padding="30px">
+      <mj-column vertical-align="middle" width="100%">
+        <mj-text align="left" color="#071C4D" font-size="18px" font-family="Assistant, Helvetica, Arial, sans-serif" padding-left="25px" padding-right="25px">
+          Hi, Sinatrio Bimo!
+          <br><br>
+          Your digital ticket has been printed success
+          <br>
+          Booking ID <strong> #22081996 </strong>
+        </mj-text>
+        <mj-table color="#071C4D" font-size="18px" line-height="25px" font-family="Assistant, Helvetica, Arial, sans-serif" padding-left="25px" padding-right="25px">
+          <tr>
+            <td colspan="3" style="padding-bottom: 10px">Members</td>
+          </tr>
+          <tr>
+            <td><strong>Sinatrio Bimo</strong></td>
+            <td style="text-align: right">Indonesia, ID</td>
+          </tr>
+          <tr>
+            <td><strong>Imanda Hafizh</strong></td>
+            <td style="text-align: right">Indonesia, ID</td>
+          </tr>
+          <tr>
+            <td><strong>Taufik Wardani</strong></td>
+            <td style="text-align: right">Indonesia, ID</td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="#071C4D" font-size="18px" line-height="25px" font-family="Assistant, Helvetica, Arial, sans-serif" padding-left="25px" padding-right="25px">
+          <tr>
+            <td colspan="3" style="padding-bottom: 10px">Travel Detail</td>
+          </tr>
+          <tr>
+            <td><strong>Departure</strong></td>
+            <td style="text-align: right">Komodo Island, NTT</td>
+          </tr>
+          <tr>
+            <td><strong>Date and Time</strong></td>
+            <td style="text-align: right">Thu, 20 Jan 2020</td>
+          </tr>
+          <tr>
+            <td><strong>Airlines</strong></td>
+            <td style="text-align: right">Garuda Indonesia</td>
+          </tr>
+        </mj-table>
+
+        <mj-button align="center" font-size="18px" font-weight="bold" background-color="#FF9E53" border-radius="10px" font-family="Assistant, Helvetica, Arial, sans-serif">
+          Check Detail
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="#ffffff" padding-bottom="0" padding-top="30px">
+      <mj-column vertical-align="middle" width="100%">
+        <mj-text align="left" color="#071C4D" font-size="18px" font-family="Assistant, Helvetica, Arial, sans-serif" padding-left="25px" padding-right="25px">
+          <strong>Butuh Bantuan?</strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding-bottom="30px" padding-top="0px">
+      <mj-column vertical-align="middle" width="100%">
+        <mj-table color="#071C4D" font-size="18px" font-family="Assistant, Helvetica, Arial, sans-serif" padding-left="25px" padding-right="25px">
+          <tr>
+            <td style="width: 50px">
+              <img src="ic_days.png" width="50px">
+            </td>
+            <td style="font-size: 18px; padding-left: 10px; color: #071C4D" font-family="Assistant, Helvetica, Arial, sans-serif">
+              support@nomads.id
+              <br>
+              021-2019-2022
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="30px" padding-top="3px">
+      <mj-column>
+        <mj-text align="center" color="#888B93" font-size="18px" font-family="Assistant, Helvetica, Arial, sans-serif" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="30px">
+          2020 Nomads Copyright All Rights Reserved
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
